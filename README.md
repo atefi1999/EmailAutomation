@@ -1,7 +1,7 @@
 # 📧 Email Automation
 
-### A Python project for automating sending emails using **SMTP**.  
-### It supports:
+### A Python project for automating sending emails using **SMTP**. It supports:
+
 - Sending single emails  
 - Queuing multiple emails and sending them in bulk  
 - Secure connection using TLS  
