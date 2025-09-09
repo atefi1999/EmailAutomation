@@ -20,7 +20,7 @@
 1. Clone the repository:
    
    ```bash
-   git clone https://github.com/yourusername/EmailAutomation.git
+   git clone https://github.com/atefi1999/EmailAutomation.git
    cd EmailAutomation
    ```
 
