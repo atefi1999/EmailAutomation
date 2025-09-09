@@ -26,12 +26,12 @@ It supports:
 
 2. Install dependencies (Python standard library, no extra install needed):
 
-   smtplib
-   email
+- smtplib
+- email
 
 ---
 
-▶️ Usage
+## ▶️ Usage
 1. Single Email
 
 ```backtick
