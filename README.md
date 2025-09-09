@@ -23,7 +23,7 @@
    git clone https://github.com/yourusername/EmailAutomation.git
    cd EmailAutomation
    ```
----
+
 
 2. Install dependencies (Python standard library, no extra install needed):
 
@@ -96,10 +96,7 @@ client.disconnect()
 
 ## ⚠️ Notes
 
-If using Gmail, you must enable App Passwords (not your main password).
+- If using Gmail, you must enable App Passwords (not your main password).
+- Make sure "Less secure app access" is handled properly in your email provider.
+- Always keep your credentials safe (don’t hardcode them in public repos).
 
-Make sure "Less secure app access" is handled properly in your email provider.
-
-Always keep your credentials safe (don’t hardcode them in public repos).
-
----
