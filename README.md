@@ -1,6 +1,6 @@
 # 📧 Email Automation
 
-#### A Python project for automating sending emails using **SMTP**. It supports:
+### A Python project for automating sending emails using **SMTP**. It supports:
 
 - Sending single emails  
 - Queuing multiple emails and sending them in bulk  
@@ -17,7 +17,7 @@
 ---
 
 ## 🛠️ Installation
-### 1. Clone the repository:
+#### 1. Clone the repository:
    
    ```bash
    git clone https://github.com/atefi1999/EmailAutomation.git
@@ -25,7 +25,7 @@
    ```
 
 
-### 2. Install dependencies (Python standard library, no extra install needed):
+#### 2. Install dependencies (Python standard library, no extra install needed):
 
 - smtplib
 - email
@@ -33,7 +33,7 @@
 ---
 
 ## ▶️ Usage
-### 1. Single Email
+#### 1. Single Email
 
 ```backtick
 from email_client import EmailClient
@@ -50,7 +50,7 @@ client.send_email("receiver@gmail.com", "Test Subject", "Hello, this is a test."
 client.disconnect()
 ```
 
-### 2. Multiple Emails (with Queue)
+#### 2. Multiple Emails (with Queue)
 
 ```backtick
 from email_client import EmailClient, EmailMessage, EmailManager
