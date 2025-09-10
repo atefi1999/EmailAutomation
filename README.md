@@ -80,7 +80,6 @@ client.disconnect()
 📩 Sent to user1@gmail.com
 📩 Sent to user2@gmail.com
 🔌 Disconnected from email server.
-
 ```
 
 ---
