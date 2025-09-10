@@ -33,7 +33,7 @@
 ---
 
 ## ▶️ Usage
-1. Single Email
+### 1. Single Email
 
 ```backtick
 from email_client import EmailClient
@@ -50,7 +50,7 @@ client.send_email("receiver@gmail.com", "Test Subject", "Hello, this is a test."
 client.disconnect()
 ```
 
-2. Multiple Emails (with Queue)
+### 2. Multiple Emails (with Queue)
 
 ```backtick
 from email_client import EmailClient, EmailMessage, EmailManager
@@ -72,15 +72,6 @@ client.disconnect()
 ```
 ---
 
-## 📂 Project Structure
-
-```markdown
-.
-├── email_client.py      # Main program
-├── README.md            # Project documentation
-```
----
-
 ## ✅ Example Output
 
 ```backtick
@@ -92,6 +83,14 @@ client.disconnect()
 
 ```
 
+---
+## 📂 Project Structure
+
+```markdown
+.
+├── email_client.py      # Main program
+├── README.md            # Project documentation
+```
 ---
 
 ## ⚠️ Notes
