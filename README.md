@@ -17,7 +17,7 @@
 ---
 
 ## 🛠️ Installation
-1. Clone the repository:
+### 1. Clone the repository:
    
    ```bash
    git clone https://github.com/atefi1999/EmailAutomation.git
@@ -25,7 +25,7 @@
    ```
 
 
-2. Install dependencies (Python standard library, no extra install needed):
+### 2. Install dependencies (Python standard library, no extra install needed):
 
 - smtplib
 - email
