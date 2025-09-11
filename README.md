@@ -87,7 +87,7 @@ client.disconnect()
 
 ```markdown
 .
-├── email_client.py      # Main program
+├── email_automation.py      # Main program
 ├── README.md            # Project documentation
 ```
 ---
